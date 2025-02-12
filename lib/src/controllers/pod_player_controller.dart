@@ -53,7 +53,7 @@ class PodPlayerController {
         } else {
           podLog('$getTag Pod Player Controller Already Initialized');
         }
-      } catch (error) {
+      } catch  (error) {
         podLog('$getTag Pod Player Controller failed to initialize');
         _initializationError = error;
       }

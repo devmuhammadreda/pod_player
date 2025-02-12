@@ -1,5 +1,4 @@
 part of 'pod_getx_video_controller.dart';
-// ignore_for_file: prefer_final_fields
 
 class _PodBaseController extends GetxController {
   ///main video controller

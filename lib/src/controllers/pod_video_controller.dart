@@ -1,3 +1,5 @@
+// ignore_for_file: document_ignores
+
 part of 'pod_getx_video_controller.dart';
 
 class _PodVideoController extends _PodUiController {
